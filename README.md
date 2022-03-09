@@ -2,7 +2,6 @@
 
 Welcome to my Github Profile. 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kramstyles)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **KramStyles/kramstyles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,3 +27,5 @@ Here are some ideas to get you started:
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kramstyles&theme=blueberry_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kramstyles)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kramstyles)](https://github.com/ryo-ma/github-profile-trophy)
