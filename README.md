@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about python.
 - 📫 How to reach me: kramstyles@outlook.com
 - ⚡ Fun fact: I got multiple code Personas
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kramstyles&theme=blueberry_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
