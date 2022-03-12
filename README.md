@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on advancing my tech life using python and javascript.
 - 🌱 I’m currently learning Django and React
 - 👯 I’m looking to collaborate on any open source
-- 💬 Ask me about python.
+- 💬 Ask me about HTML, CSS, JAVASCRIPT, PYTHON, PHP, WORDPRESS.
 - 📫 How to reach me: kramstyles@outlook.com
 - ⚡ Fun fact: I got multiple code Personas
 
