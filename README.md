@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kramstyles@outlook.com
 - ⚡ Fun fact: I got multiple code Personas
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kramstyles&label=Profile%20views&color=0e75b6&style=flat" alt="kramstyles" /> </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kramstyles&theme=blueberry_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kramstyles&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
